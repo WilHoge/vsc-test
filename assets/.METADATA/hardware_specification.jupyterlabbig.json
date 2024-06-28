@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "name": "jupyterlab big",
+    "description": "",
+    "origin_country": "US",
+    "tags": [
+      "dsx"
+    ],
+    "asset_type": "hardware_specification",
+    "rov": {
+      "mode": 0
+    },
+    "asset_category": "USER",
+    "created_at": "2024-06-27T14:46:08Z",
+    "created": 1719499568634,
+    "asset_id": "hardware_specification.jupyterlabbig",
+    "asset_attributes": [
+      "hardware_specification"
+    ]
+  },
+  "entity": {
+    "hardware_specification": {
+      "nodes": {
+        "cpu": {
+          "units": "4",
+          "model": ""
+        },
+        "mem": {
+          "size": "4Gi"
+        }
+      }
+    }
+  },
+  "attachments": []
+}
